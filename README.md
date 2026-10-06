@@ -19,4 +19,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
