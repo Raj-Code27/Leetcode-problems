@@ -44,4 +44,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
+| [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
