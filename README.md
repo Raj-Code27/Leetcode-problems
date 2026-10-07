@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 | [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0326-power-of-three/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
