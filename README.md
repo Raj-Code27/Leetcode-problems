@@ -36,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0263-ugly-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 <!---LeetCode Topics End-->
