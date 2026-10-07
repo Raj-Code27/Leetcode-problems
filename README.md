@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -41,5 +42,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
 <!---LeetCode Topics End-->
