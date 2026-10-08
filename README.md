@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
+| [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,8 +91,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 <!---LeetCode Topics End-->
