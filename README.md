@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0495-teemo-attacking](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0495-teemo-attacking/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
