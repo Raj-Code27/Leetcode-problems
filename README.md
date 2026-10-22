@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0263-ugly-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0263-ugly-number/) | Easy |
@@ -121,4 +122,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
