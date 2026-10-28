@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0043-multiply-strings/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0043-multiply-strings/) | Medium |
 | [0070-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0043-multiply-strings/) | Medium |
 | [0495-teemo-attacking](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0495-teemo-attacking/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
