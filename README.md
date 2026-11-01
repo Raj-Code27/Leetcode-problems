@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,10 +140,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
