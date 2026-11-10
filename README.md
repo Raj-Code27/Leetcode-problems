@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0409-longest-palindrome](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
