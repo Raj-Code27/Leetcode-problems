@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0409-longest-palindrome](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
+| [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0409-longest-palindrome](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Simulation
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
