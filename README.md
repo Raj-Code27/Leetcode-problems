@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0409-longest-palindrome](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
