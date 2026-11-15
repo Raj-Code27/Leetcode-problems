@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0043-multiply-strings/) | Medium |
 | [0495-teemo-attacking](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0495-teemo-attacking/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0707-design-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
