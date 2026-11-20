@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Binary Search
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
