@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0495-teemo-attacking](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0495-teemo-attacking/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0409-longest-palindrome](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Raj-Code27/Leetcode-problems/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
