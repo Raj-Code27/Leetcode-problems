@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0228-summary-ranges/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0495-teemo-attacking](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0495-teemo-attacking/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
