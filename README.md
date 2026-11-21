@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0525-contiguous-array/) | Medium |
 | [0528-random-pick-with-weight](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Raj-Code27/Leetcode-problems/tree/main/0724-find-pivot-index/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Raj-Code27/Leetcode-problems/tree/main/1991-find-the-middle-index-in-array/) | Easy |
